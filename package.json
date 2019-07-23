@@ -25,7 +25,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "cypress": "^3.4.0",
-    "cypress-cucumber-preprocessor": "1.11.2",
+    "cypress-cucumber-preprocessor": "1.13",
     "mocha": "^6.2.0"
   },
   "cypress-cucumber-preprocessor": {
