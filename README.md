@@ -9,6 +9,9 @@ Please don’t make solutions to the code challenge publicly available online.
 
 We would prefer to receive a link to a private repository or the project archived in an email.
 
+## What we expect from you
+We are especially curious about how you came to your solution and what your motivation is for a specific solution. Please comment on your own code inline or use the `feedback.md` in the root of the folder.
+
 ## Run tests
 You can run the E2E tests following these steps:
 ```
