@@ -4,7 +4,8 @@
   "description": "Example of cypress with cucumber",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run"
+    "test": "cypress run",
+    "unit": "mocha"
   },
   "repository": {
     "type": "git",
@@ -22,8 +23,10 @@
   },
   "homepage": "https://github.com/TheBrainFamily/cypress-cucumber-example#readme",
   "dependencies": {
-    "cypress": "^3.3.0",
-    "cypress-cucumber-preprocessor": "1.11.2"
+    "chai": "^4.2.0",
+    "cypress": "^3.4.0",
+    "cypress-cucumber-preprocessor": "1.11.2",
+    "mocha": "^6.2.0"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
