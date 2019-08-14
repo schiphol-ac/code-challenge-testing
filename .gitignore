@@ -61,3 +61,6 @@ typings/
 .idea
 
 cypress/videos
+
+# Editor generated files
+.history
