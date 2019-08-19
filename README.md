@@ -21,15 +21,18 @@ npm test
 Or open the cypress GUI:
 ## Challenges
 ### Challenge 1 - cypress
-Write an E2E test using cucumber and cypress implementing at least a `given`, a `when` and a `then`. Use Google.com as url or a different one if you like.
+Write an E2E test using cucumber and cypress implementing at least a `given`, a `when` and a `then`. Use Google.com as url and assert the search result for '4 + 2'.
 
 ### Challenge 2 - cypress
 Write an E2E test asserting that:
  - on https://en.wikipedia.org/wiki/Main_Page
  - under `Tools` in the left menu
  - there are 7 menu items
+ 
+### Challenge 3 - cypress
+Make the example.feature file in the example map work
 
-### Challenge 3 - javascript
+### Challenge 4 - javascript
 In `./challenge-3/challenge.js` write a function that takes two arrays as input and returns the difference of the two arrays. See corresponding unit tests in `./test/challenge-3.spec.js to find examples.
 
 run the unittests:
